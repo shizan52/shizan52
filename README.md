@@ -15,9 +15,11 @@ I build **AI chatbots**, **browser automation** and **full-stack web apps**, and
 
 <p>
   <a href="https://portfolio.shizanvps.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-portfolio.shizanvps.me-0F2E3A?style=for-the-badge&logo=googlechrome&logoColor=F0B44C"></a>
-  <a href="https://www.linkedin.com/in/tayb-hassan-shizan-584980379"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0F2E3A?style=for-the-badge&logo=linkedin&logoColor=F0B44C"></a>
+  <a href="https://portfolio.shizanvps.me/cv"><img alt="CV" src="https://img.shields.io/badge/CV-Read_%2F_PDF-0F2E3A?style=for-the-badge&logo=readthedocs&logoColor=F0B44C"></a>
+  <a href="https://portfolio.shizanvps.me/cover-letter"><img alt="Cover letter" src="https://img.shields.io/badge/Cover_letter-Read-0F2E3A?style=for-the-badge&logo=googledocs&logoColor=F0B44C"></a>
+  <a href="https://www.linkedin.com/in/tayb-hassan-shizan-97758040b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0F2E3A?style=for-the-badge&logo=linkedin&logoColor=F0B44C"></a>
   <a href="mailto:shizan305@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shizan305@gmail.com-0F2E3A?style=for-the-badge&logo=gmail&logoColor=F0B44C"></a>
-  <a href="https://www.fiverr.com/s/DB359k7"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-Hire_me-0F2E3A?style=for-the-badge&logo=fiverr&logoColor=F0B44C"></a>
+  <a href="https://www.fiverr.com/s/gvvEN4b"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-Hire_me-0F2E3A?style=for-the-badge&logo=fiverr&logoColor=F0B44C"></a>
 </p>
 
 ## Featured work
@@ -76,4 +78,4 @@ An AI-assisted medicine delivery platform built for Bangladesh. Customers, nearb
 
 ---
 
-I work remotely and am open to full-stack and AI engineering roles, remote or hybrid in Dhaka, as well as freelance projects. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/tayb-hassan-shizan-584980379) or [email](mailto:shizan305@gmail.com).
+I work remote-first and am open to junior full-stack and AI automation roles — remote, or hybrid with office visits anywhere in Bangladesh — as well as freelance projects. My [CV](https://portfolio.shizanvps.me/cv) and [cover letter](https://portfolio.shizanvps.me/cover-letter) are on my portfolio, and AI assistants can read a plain-text profile at [llms.txt](https://portfolio.shizanvps.me/llms.txt). The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/tayb-hassan-shizan-97758040b) or [email](mailto:shizan305@gmail.com).
